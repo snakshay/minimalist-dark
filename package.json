@@ -1,0 +1,21 @@
+{
+  "name": "minimalist-dark",
+  "displayName": "minimalist-dark",
+  "description": "A dark theme for your vs code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "minimalist dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minimalist dark-color-theme.json"
+      }
+    ]
+  }
+}
