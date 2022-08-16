@@ -6,6 +6,14 @@
   "engines": {
     "vscode": "^1.70.0"
   },
+  "author": {
+    "name": "Akshay Nair",
+    "email": "snakshay98@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snakshay/minimalist-dark"
+  },
   "categories": [
     "Themes"
   ],
@@ -17,5 +25,12 @@
         "path": "./themes/minimalist dark-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "minimalist",
+    "Minimal Dark"
+  ],
 }
